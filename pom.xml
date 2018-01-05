@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>minamoto54</groupId>
     <artifactId>firehose-log4j2-appender</artifactId>
-    <version>1.0</version>
+    <version>1.0-0.1</version>
     <name>Log4j Appender for pushing logs to Firehose</name>
     <url>https://github.com/Minamoto54/firehose-log4j2-appender</url>
 
